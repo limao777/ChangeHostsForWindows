@@ -1,0 +1,2 @@
+# ChangeHostsForWindows
+一个简单的东西可以让我们简单地编辑windows的hosts文件
